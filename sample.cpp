@@ -5,7 +5,6 @@ using namespace std;
 int main (int argc, char** argv)
 {
 
-
         t_fileio* fi = open_xtc(argv[1], "r");
 
         int n;
